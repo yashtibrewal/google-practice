@@ -1,6 +1,7 @@
-package number.of.islands;
+package solved;
 
-public class SolutionTest {
+
+public class Solution200Test {
 
     public static void test1() {
         char[][] grid = new char[][] {
@@ -9,7 +10,7 @@ public class SolutionTest {
             { '1', '1', '0', '0', '0' },
             { '0', '0', '0', '0', '0' }
         };
-        Solution solution = new Solution();
+        Solution200 solution = new Solution200();
         System.out.println(solution.numIslands(grid) == 1);
     }
     public static void test2() {
@@ -19,7 +20,7 @@ public class SolutionTest {
             {'0','0','1','0','0'},
             {'0','0','0','1','1'}
           };
-        Solution solution = new Solution();
+        Solution200 solution = new Solution200();
         System.out.println(solution.numIslands(grid) == 3);
     }
     public static void main(String args[]) {

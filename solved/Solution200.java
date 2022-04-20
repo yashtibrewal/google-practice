@@ -1,9 +1,10 @@
-package number.of.islands;
+package solved;
+
 
 import java.util.HashMap;
 import java.util.HashSet;
 
-class Solution {
+class Solution200 {
 
     class Point {
         int x;
@@ -39,7 +40,7 @@ class Solution {
         }
     }
 
-    Solution() {
+    Solution200() {
         island = new HashMap<>();
         islandNumber = 0;
         traversalHistory = new HashSet<>();
