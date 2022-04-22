@@ -1,4 +1,4 @@
-package solved;
+package solved.easy;
 public class Solution1710Test {
     public static void main(String[] args){
         Solution1710 solution1710 = new Solution1710();

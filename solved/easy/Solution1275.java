@@ -1,4 +1,4 @@
-package solved;
+package solved.easy;
 public class Solution1275 {
 
     public int sumOfRow(int[][] grid, int row) {

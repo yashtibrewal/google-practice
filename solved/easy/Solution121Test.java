@@ -1,4 +1,4 @@
-package solved;
+package solved.easy;
 
 class Solution121Test {
 

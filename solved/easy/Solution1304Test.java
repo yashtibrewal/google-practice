@@ -1,4 +1,4 @@
-package solved;
+package solved.easy;
 import java.util.Arrays;
 
 public class Solution1304Test {

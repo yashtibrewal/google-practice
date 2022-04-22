@@ -1,4 +1,4 @@
-package solved;
+package solved.easy;
 
 
 public class Solution200Test {
