@@ -53,7 +53,7 @@ class Solution366 {
     }
 
     public List<List<Integer>> findLeaves(TreeNode root) {
-        List<List<Integer>> result = new ArrayList<List<Integer>>();
+        List<List<Integer>> result = new ArrayList<>();
         List<Integer> leaves;
         while (!isLeaf(root)) {
             leaves = new ArrayList<>();
@@ -67,7 +67,7 @@ class Solution366 {
     }
 
     public static void main(String[] args) {
-        Solution solution = new Solution();
+        Solution366 solution = new Solution366();
         TreeNode root = new TreeNode(10, new TreeNode(14), new TreeNode(15, new TreeNode(16), null));
         solution.findLeaves(root);
     }

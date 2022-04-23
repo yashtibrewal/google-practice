@@ -1,3 +1,4 @@
+package stuck;
 import java.util.HashMap;
 
 class Logger {

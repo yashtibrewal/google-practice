@@ -1,6 +1,4 @@
 package solved.easy;
-import java.util.ArrayList;
-import java.util.List;
 
 public class Solution1304 {
     

@@ -1,3 +1,4 @@
+package stuck;
 public class Solution2128Test {
     public static void main(String[] args) throws Exception {
         Solution2128 solution2128 = new Solution2128();

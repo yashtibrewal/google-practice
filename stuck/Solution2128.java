@@ -1,3 +1,4 @@
+package stuck;
 public class Solution2128 {
 
     public boolean isCol(int[][] grid, int y, int num) {
